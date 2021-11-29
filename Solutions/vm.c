@@ -1,6 +1,5 @@
 /**
- * Jenan Abas
- * Tyler Clarke 
+
  * Juliana Oyola-Pabon;
  * Travis Wise
  * 
